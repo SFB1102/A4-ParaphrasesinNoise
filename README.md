@@ -1,9 +1,12 @@
 # Paraphrases in Noise:
-### This repository contains the stimuli and perception data of 300 paraphrase triplets in 3 noise conditions:
+### This repository contains the perception experiment data of 300 paraphrase triplets in noise:
 
-## Audio stimuli
+%## Audio stimuli
 
 ## Perception experiment data
+### PiN
+### PiN <sub> both </sub>
+### PiN <sub> either </sub>
 
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
