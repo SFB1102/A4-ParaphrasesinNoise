@@ -1,28 +1,9 @@
-# Synonyms in Noise:
-### A repository of human mishearings in noise collected from 2 listening ecperiments:
-## 1) Single Word Listening (SWL)
-## 2) Short Utterance Listening (SUL).
+# Paraphrases in Noise:
+### This repository contains the stimuli and perception data of 300 paraphrase triplets in 3 noise conditions:
 
+## Audio stimuli
 
-For more details about listening experiments, please refer our work [Exploring the Potential of Lexical Paraphrases for Mitigating Noise-Induced Comprehension Errors](https://www.isca-speech.org/archive/pdfs/interspeech_2021/chingacham21_interspeech.pdf).
-
-Stimuli audio files are available here : https://repos.lsv.uni-saarland.de/achingacham/listeningexperiment_synonyms.git
-
-If you would like to share any concerns/suggestions/comments to improve this repo, please raise an issue here.
-
-Please use the following citation, if you happen to use our data or to refer this work:
-
-
-```
-@inproceedings{chingacham21_interspeech,
-  author={Anupama Chingacham and Vera Demberg and Dietrich Klakow},
-  title={{Exploring the Potential of Lexical Paraphrases for Mitigating Noise-Induced Comprehension Errors}},
-  year=2021,
-  booktitle={Proc. Interspeech 2021},
-  pages={1713--1717},
-  doi={10.21437/Interspeech.2021-306}
-}
-```
+## Perception experiment data
 
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
