@@ -1,5 +1,5 @@
 # Paraphrases in Noise:
-### This repository contains the perception experiment data of 300 paraphrase triplets in noise:
+### This repository contains the perception data of 300 paraphrase triplets in noise:
 
 ## Audio stimuli
 
