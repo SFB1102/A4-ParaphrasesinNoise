@@ -1,0 +1,901 @@
+paraphrase_pair_id	Short Utterance (1)	Short Utterance (2)	Exact_paraphrase_or_not(1)	Exact_paraphrase_or_not(2)	Both annotations are same	Either annotated ‘yes’
+1	this is where i start having my problems with my company	this is where i start having issues with my company	y	y	1	1
+2	this is where i start having issues with my company	this is where my problems begin	n	n	1	0
+3	this is where i start having my problems with my company	this is where my problems begin	n	n	1	0
+4	there are some long range goals we could discuss	we could talk about long range goals	y	y	1	1
+5	we could talk about some of the long range goals	there are some long range goals we could discuss	y	y	1	1
+6	we could talk about some of the long range goals	we could talk about long range goals	y	n	0	1
+7	we have seen that movie at least six times in the last six months	we saw that movie six times in the last six months	n	n	1	0
+8	we seen that movie probably six times in the last six months	we have seen that movie at least six times in the last six months	n	n	1	0
+9	we seen that movie probably six times in the last six months	we saw that movie six times in the last six months	n	n	1	0
+10	in the middle of having both generations you feel squeezed	you are in the middle of two generations	n	n	1	0
+11	you feel squeezed in the middle of having both generations	in the middle of having both generations you feel squeezed	y	y	1	1
+12	you feel squeezed in the middle of having both generations	you are in the middle of two generations	n	n	1	0
+13	you going to get ten or fifteen bucks for it	you get ten or fifteen bucks for it	y	y	1	1
+14	you get ten or fifteen bucks for it	you will get between ten and fifteen dollars for it	n	y	0	1
+15	you going to get ten or fifteen bucks for it	you will get between ten and fifteen dollars for it	y	y	1	1
+16	do you get any kind of health care type stuff	do you get any kind of medical care	n	y	0	1
+17	do you get any kind of health care type stuff	do you get anything related to health care	y	y	1	1
+18	do you get any kind of medical care	do you get anything related to health care	y	n	0	1
+19	do you want to hear about my other animals i had	do you want to hear about my animals	n	n	1	0
+20	do you want to hear about my animals	do you want to learn more about my other animals	n	n	1	0
+21	do you want to hear about my other animals i had	do you want to learn more about my other animals	n	n	1	0
+22	do you work for a big or a little place	do you work for a big company	n	n	1	0
+23	do you work for a big company	do you work for a big place or a small place	y	n	0	1
+24	do you work for a big or a little place	do you work for a big place or a small place	y	y	1	1
+25	a lot of education aid has gone to trade schools	a lot of education aid went to trade schools	y	y	1	1
+26	a lot of education aid has gone to trade schools	education aid has gone to trade schools	n	n	1	0
+27	a lot of education aid went to trade schools	education aid has gone to trade schools	n	y	0	1
+28	what kind of car would you like to buy next	what kind of car do you want	n	n	1	0
+29	what kind of car do you want	what kind of vehicle do you want to buy next	n	n	1	0
+30	what kind of car would you like to buy next	what kind of vehicle do you want to buy next	n	n	1	0
+31	do you have a lot of activities with your kids	do you have a lot of activities with your children	y	y	1	1
+32	do you have a lot of activities with your children	do you have a lot of fun with your children	y	n	0	1
+33	do you have a lot of activities with your kids	do you have a lot of fun with your children	y	n	0	1
+34	do you work like half days or half weeks or	do you work long days or short days	n	n	1	0
+35	do you work like half days or half weeks or	do you work more than half a day	n	n	1	0
+36	do you work long days or short days	do you work more than half a day	y	n	0	1
+37	a lot of times i think it our own fault	i think it is our fault a lot	y	y	1	1
+38	a lot of times i think it our own fault	i think it is our own fault a lot	y	y	1	1
+39	i think it is our fault a lot	i think it is our own fault a lot	y	y	1	1
+40	i called my father long distance just to describe the thing	i called my dad to describe it	n	y	0	1
+41	i called my dad to describe it	i called my father to describe the thing	y	y	1	1
+42	i called my father long distance just to describe the thing	i called my father to describe the thing	n	n	1	0
+43	a while ago that showed some people that had rabbits in apartments	some people had rabbits in apartments	n	n	1	0
+44	a while ago that showed some people that had rabbits in apartments	some people had rabbits in their apartments	n	n	1	0
+45	some people had rabbits in apartments	some people had rabbits in their apartments	y	y	1	1
+46	i have quite a few of those that my uncle made	my uncle made a number of those	n	n	1	0
+47	i have quite a few of those that my uncle made	my uncle made many of them	n	n	1	0
+48	my uncle made a number of those	my uncle made many of them	y	y	1	1
+49	i honestly think i would die before my truck would	i believe i would die before my truck did	y	y	1	1
+50	i believe i would die before my truck did	i think i would die before my truck does	y	y	1	1
+51	i honestly think i would die before my truck would	i think i would die before my truck does	y	y	1	1
+52	i tell you the sit ups and push ups are excellent	push ups and sit ups are excellent	y	n	0	1
+53	i tell you the sit ups and push ups are excellent	the sit ups and push ups are great	y	n	0	1
+54	push ups and sit ups are excellent	the sit ups and push ups are great	y	y	1	1
+55	and do the job because the kids really need it	the kids need it so do the job	y	y	1	1
+56	and do the job because the kids really need it	the kids really need it	n	n	1	0
+57	the kids need it so do the job	the kids really need it	n	n	1	0
+58	and kind of had a whole conducive atmosphere to it	it kind of had a good vibe	y	n	0	1
+59	and kind of had a whole conducive atmosphere to it	it kind of had a great atmosphere	n	n	1	0
+60	it kind of had a good vibe	it kind of had a great atmosphere	y	y	1	1
+61	it may have even spread all over the whole town	it could have spread all over the town	y	y	1	1
+62	it could have spread all over the town	it may have spread to the entire town	n	y	0	1
+63	it may have even spread all over the whole town	it may have spread to the entire town	y	y	1	1
+64	it probably doesnt happen every morning but it happens about two days a week	it probably doesnt occur every morning	n	n	1	0
+65	not every morning it probably averages about two days a week	it probably doesnt happen every morning but it happens about two days a week	y	y	1	1
+66	not every morning it probably averages about two days a week	it probably doesnt occur every morning	n	n	1	0
+67	that going to be crazy that time of year here	it will be crazy that time of year here	y	y	1	1
+68	it will be crazy that time of year here	that time of year will be crazy	n	y	0	1
+69	that going to be crazy that time of year here	that time of year will be crazy	n	y	0	1
+70	that what it all boils down to in the end usually anyway	it all depends on what it all comes down to	n	n	1	0
+71	it all depends on what it all comes down to	thats what it all comes down to in the end	n	n	1	0
+72	that what it all boils down to in the end usually anyway	thats what it all comes down to in the end	y	n	0	1
+73	it would be fun to get them trained	it would be fun to train them	y	y	1	1
+74	that would be fun if you could get them trained	it would be fun to get them trained	y	y	1	1
+75	that would be fun if you could get them trained	it would be fun to train them	n	y	0	1
+76	the minimum they want you to do is three times a week	they want you to do at least three times a week	y	y	1	1
+77	the minimum they want you to do is three times a week	you have to do three times a week	y	n	0	1
+78	they want you to do at least three times a week	you have to do three times a week	y	n	0	1
+79	they supposed to be coming out with all these desert storm movies	they were going to release all the desert storm movies	y	y	1	1
+80	they supposed to be coming out with all these desert storm movies	they were supposed to be releasing all these desert storm movies	y	y	1	1
+81	they were going to release all the desert storm movies	they were supposed to be releasing all these desert storm movies	y	y	1	1
+82	i want to get in the water	i would love to get in the water	y	n	0	1
+83	to this day i do want to get in the water	i want to get in the water	n	n	1	0
+84	to this day i do want to get in the water	i would love to get in the water	n	n	1	0
+85	was it small enough that you could just hold it	is it small enough to hold	y	y	1	1
+86	is it small enough to hold	was it small enough to be held	y	n	0	1
+87	was it small enough that you could just hold it	was it small enough to be held	y	y	1	1
+88	we been sort of opera fans for a few years now	we have been fans of opera for a long time	y	n	0	1
+89	we been sort of opera fans for a few years now	we like opera for a few years now	y	y	1	1
+90	we have been fans of opera for a long time	we like opera for a few years now	y	y	1	1
+91	we looking forward to one in october to disneyworld in florida	we are looking forward to one in october at disneyworld	y	y	1	1
+92	we are looking forward to one in october at disneyworld	we will be going to disneyworld in florida in october	y	n	0	1
+93	we looking forward to one in october to disneyworld in florida	we will be going to disneyworld in florida in october	y	n	0	1
+94	coupons are sent out when a new restaurant opens	new restaurants usually send out coupons	y	y	1	1
+95	when a new restaurant opens up they usually send out coupons	coupons are sent out when a new restaurant opens	n	y	0	1
+96	when a new restaurant opens up they usually send out coupons	new restaurants usually send out coupons	y	y	1	1
+97	i had it when i was your age	i had this at your age	y	y	1	1
+98	when i was your age i did have this or that	i had it when i was your age	n	n	1	0
+99	when i was your age i did have this or that	i had this at your age	n	n	1	0
+100	the other one doing well this year	the other one is doing very well	n	n	1	0
+101	who the other one that doing so well this year	the other one doing well this year	n	n	1	0
+102	who the other one that doing so well this year	the other one is doing very well	n	n	1	0
+103	every month i add two hundred and twenty dollars to it	i add two hundred and twenty dollars a month to it	y	y	1	1
+104	every month i add two hundred and twenty dollars to it	i add two hundred and twenty dollars every month	y	y	1	1
+105	i add two hundred and twenty dollars a month to it	i add two hundred and twenty dollars every month	y	y	1	1
+106	i also wanted to spend one year studying in europe	i wanted to spend a year studying in europe	y	y	1	1
+107	i also wanted to spend one year studying in europe	i wanted to study in europe	n	n	1	0
+108	i wanted to spend a year studying in europe	i wanted to study in europe	n	n	1	0
+109	and not ever have to spend any money on interest	not having to spend money on interest	y	y	1	1
+110	and not ever have to spend any money on interest	not having to spend money on interest is a bonus	n	n	1	0
+111	not having to spend money on interest	not having to spend money on interest is a bonus	n	n	1	0
+112	i attended a small liberal arts college in virginia	i went to a small college in virginia	n	y	0	1
+113	i went to a small liberal arts college in virginia	i attended a small liberal arts college in virginia	y	y	1	1
+114	i went to a small liberal arts college in virginia	i went to a small college in virginia	n	n	1	0
+115	if you have any doubts whatsoever you better not get into it	if you have doubts dont get into it	y	n	0	1
+116	if you have any doubts whatsoever you better not get into it	if you have doubts dont get involved	y	n	0	1
+117	if you have doubts dont get into it	if you have doubts dont get involved	y	y	1	1
+118	it a husband and wife team that we known for years	we have known a husband and wife team for years	y	y	1	1
+119	it a husband and wife team that we known for years	we know the husband and wife team for a long time	y	y	1	1
+120	we have known a husband and wife team for years	we know the husband and wife team for a long time	y	y	1	1
+121	my last car repair actually had to do with brakes	my last car repair was for brakes	y	y	1	1
+122	my last car repair actually had to do with brakes	my last car repair was related to brakes	y	y	1	1
+123	my last car repair was for brakes	my last car repair was related to brakes	y	y	1	1
+124	now we did what we sometimes do since we are in ohio	since we are in ohio we did what we usually do	n	n	1	0
+125	now we did what we sometimes do since we are in ohio	since we are in ohio we usually do what we do	n	n	1	0
+126	since we are in ohio we did what we usually do	since we are in ohio we usually do what we do	n	n	1	0
+127	spring usually consists of a lot of rain especially thunderstorms	spring usually consists of a lot of rain	n	n	1	0
+128	spring usually consists of a lot of rain	there is usually a lot of rain	n	n	1	0
+129	spring usually consists of a lot of rain especially thunderstorms	there is usually a lot of rain	n	n	1	0
+130	a friend made us a beautiful christmas design	a friend made us a christmas design	n	n	1	0
+131	that a friend had made for us a beautiful christmas design	a friend made us a beautiful christmas design	y	y	1	1
+132	that a friend had made for us a beautiful christmas design	a friend made us a christmas design	n	n	1	0
+133	father day is the last time we went to cafe pacific	father day was the last time we were at cafe pacific	y	y	1	1
+134	the last time we went to cafe pacific it was father day	father day is the last time we went to cafe pacific	y	y	1	1
+135	the last time we went to cafe pacific it was father day	father day was the last time we were at cafe pacific	y	y	1	1
+136	they get loans and grants and scholarships and stuff like that	they get grants and loans	n	n	1	0
+137	they get grants and loans	they receive grants and loans	y	y	1	1
+138	they get loans and grants and scholarships and stuff like that	they receive grants and loans	n	n	1	0
+139	the biggest part is they have no accountability for what they doing	there is no accountability for what they do	n	n	1	0
+140	the biggest part is they have no accountability for what they doing	they dont have accountability for what they do	n	n	1	0
+141	there is no accountability for what they do	they dont have accountability for what they do	y	y	1	1
+142	the car i had before this one was a thunderbird	i used to have a thunderbird before this one	y	y	1	1
+143	i used to have a thunderbird before this one	the car i had was a thunderbird	n	n	1	0
+144	the car i had before this one was a thunderbird	the car i had was a thunderbird	y	n	0	1
+145	but have been put to a rap kind of a rhythm	they were put to a rap rhythm	y	n	0	1
+146	but have been put to a rap kind of a rhythm	they were put to a rap type of rhythm	y	n	0	1
+147	they were put to a rap rhythm	they were put to a rap type of rhythm	y	y	1	1
+148	nitrous oxides and ozone are in the paper	nitrous oxides and ozone are mentioned in the paper	y	y	1	1
+149	they say in the paper nitrous oxides and ozone and all that	nitrous oxides and ozone are in the paper	y	n	0	1
+150	they say in the paper nitrous oxides and ozone and all that	nitrous oxides and ozone are mentioned in the paper	y	n	0	1
+151	did use teflon tape on one of them or something like that	did they use teflon tape	n	n	1	0
+152	did they use teflon tape	did you use teflon tape on them	n	n	1	0
+153	did use teflon tape on one of them or something like that	did you use teflon tape on them	y	n	0	1
+154	do you think they have a right to send them	do you think they have the right to do that	n	n	1	0
+155	do you think they should have the right to send them	do you think they have a right to send them	n	n	1	0
+156	do you think they should have the right to send them	do you think they have the right to do that	n	n	1	0
+157	especially right now we got several new products coming out	new products are coming out	n	n	1	0
+158	especially right now we got several new products coming out	right now we have several new products	n	n	1	0
+159	new products are coming out	right now we have several new products	n	n	1	0
+160	i do think they should show it during prime time	i think they should show it in prime time	n	y	0	1
+161	i do think they should show it during prime time	they should show it in prime time	y	n	0	1
+162	i think they should show it in prime time	they should show it in prime time	y	n	0	1
+163	i guess also the fact that they say it not a deterrent	i think that they say it isnt a deterrent	y	y	1	1
+164	i guess also the fact that they say it not a deterrent	they say it isnt a deterrent	y	n	0	1
+165	i think that they say it isnt a deterrent	they say it isnt a deterrent	y	n	0	1
+166	i guess you got to look at something like that	i think you need to look at that	n	n	1	0
+167	i guess you got to look at something like that	you need to look at that	n	y	0	1
+168	i think you need to look at that	you need to look at that	y	n	0	1
+169	i had to have a transmission replaced in an automobile	i needed to have a transmission replaced in my car	n	y	0	1
+170	i had to have a transmission replaced in an automobile	the transmission in my car had to be replaced	n	y	0	1
+171	i needed to have a transmission replaced in my car	the transmission in my car had to be replaced	y	y	1	1
+172	i like colombo probably the best of any of those mystery things	colombo is the best of those mystery things	y	n	0	1
+173	colombo is the best of those mystery things	i like colombo the best	n	n	1	0
+174	i like colombo probably the best of any of those mystery things	i like colombo the best	n	n	1	0
+175	i remember those shows being on during the day	i remember those shows in the afternoon	n	y	0	1
+176	i seem to remember those shows being on in the afternoon	i remember those shows being on during the day	n	y	0	1
+177	i seem to remember those shows being on in the afternoon	i remember those shows in the afternoon	n	n	1	0
+178	i think they last a lot longer than anything else	i believe they last a lot longer than other things	n	y	0	1
+179	i believe they last a lot longer than other things	they last a lot longer than anything else	n	y	0	1
+180	i think they last a lot longer than anything else	they last a lot longer than anything else	y	n	0	1
+181	i worked for this company before i had my first daughter	i was employed by this company before i had my first daughter	y	y	1	1
+182	i was employed by this company before i had my first daughter	i worked for this company before my first child was born	n	y	0	1
+183	i worked for this company before i had my first daughter	i worked for this company before my first child was born	n	y	0	1
+184	if they are going to go on vacation	if they are going to go out of state	n	n	1	0
+185	if they going to go out of state for vacation	if they are going to go on vacation	n	n	1	0
+186	if they going to go out of state for vacation	if they are going to go out of state	n	n	1	0
+187	in the larger schools you get caught up in the bureaucracy	you are caught up in the bureaucracy in larger schools	y	y	1	1
+188	in the larger schools you get caught up in the bureaucracy	you end up in the bureaucracy in larger schools	y	y	1	1
+189	you are caught up in the bureaucracy in larger schools	you end up in the bureaucracy in larger schools	y	y	1	1
+190	because a lot of states do still practice capital punishment	a lot of states still practice capital punishment	y	y	1	1
+191	a lot of states still practice capital punishment	many states still use capital punishment	y	y	1	1
+192	because a lot of states do still practice capital punishment	many states still use capital punishment	y	y	1	1
+193	it was far extreme thought we never find the place	it was extreme to think we never find the place	y	y	1	1
+194	it was extreme to think we never find the place	we never find the place	n	n	1	0
+195	it was far extreme thought we never find the place	we never find the place	n	n	1	0
+196	like when you buy a tire you pay a federal excise tax	when you buy a tire you pay a federal excise tax	y	y	1	1
+197	like when you buy a tire you pay a federal excise tax	you have to pay a federal excise tax on tires	y	y	1	1
+198	when you buy a tire you pay a federal excise tax	you have to pay a federal excise tax on tires	y	y	1	1
+199	i do two things at once	of course i do two things at the same time	y	n	0	1
+200	of course i one of those that does two things at once	i do two things at once	y	n	0	1
+201	of course i one of those that does two things at once	of course i do two things at the same time	y	y	1	1
+202	once you get into the habit of it it okay	it is okay once you get into the habit	y	y	1	1
+203	it is okay once you get into the habit	you can get into the habit of it	n	y	0	1
+204	once you get into the habit of it it okay	you can get into the habit of it	n	n	1	0
+205	they did a lot of stuff that they cut out	they did a lot of different things	n	n	1	0
+206	they did a lot of different things	they did a lot of work	n	n	1	0
+207	they did a lot of stuff that they cut out	they did a lot of work	n	n	1	0
+208	everybody in town went to this restaurant	people came into town and went to this restaurant	n	n	1	0
+209	this was like everybody came into town and went to this restaurant	everybody in town went to this restaurant	n	n	1	0
+210	this was like everybody came into town and went to this restaurant	people came into town and went to this restaurant	n	y	0	1
+211	it is a little bit cheaper in the long run	it is usually cheaper in the long run	n	n	1	0
+212	usually i think it a little bit cheaper in the long run	it is a little bit cheaper in the long run	y	n	0	1
+213	usually i think it a little bit cheaper in the long run	it is usually cheaper in the long run	y	n	0	1
+214	we do usually take the kids when we go there	we usually take the kids when we go there	y	y	1	1
+215	we do usually take the kids when we go there	we usually take the kids with us	n	n	1	0
+216	we usually take the kids when we go there	we usually take the kids with us	n	n	1	0
+217	on the west side of our house there was a power surge	there was a power surge on the west side of the house	y	y	1	1
+218	we got power surges on the west side of our house	on the west side of our house there was a power surge	n	y	0	1
+219	we got power surges on the west side of our house	there was a power surge on the west side of the house	n	n	1	0
+220	the bedrooms are small and we have to rearrange our house	the bedrooms are small so were rearranging them	n	n	1	0
+221	we rearranging our house because the bedrooms are kind of small	the bedrooms are small and we have to rearrange our house	y	n	0	1
+222	we rearranging our house because the bedrooms are kind of small	the bedrooms are small so were rearranging them	y	n	0	1
+223	do you divide it in fourths	do you split it in fourths	y	y	1	1
+224	you kind of divide it in fourths in a way do you	do you divide it in fourths	y	n	0	1
+225	you kind of divide it in fourths in a way do you	do you split it in fourths	y	n	0	1
+226	i always tried to understand things not tried to memorize	i never tried to memorize things	n	n	1	0
+227	i always tried to understand things not tried to memorize	i tried to understand things	n	n	1	0
+228	i never tried to memorize things	i tried to understand things	n	n	1	0
+229	i do have to worry a whole lot about that	i have to be very worried about that	y	y	1	1
+230	i do have to worry a whole lot about that	i have to worry a lot	n	n	1	0
+231	i have to be very worried about that	i have to worry a lot	n	n	1	0
+232	i kind of got burnt out on steven king though	i got burnt out on steven king	y	n	0	1
+233	i got burnt out on steven king	i was burnt out on steven king	y	y	1	1
+234	i kind of got burnt out on steven king though	i was burnt out on steven king	y	y	1	1
+235	i look for it to be a pretty good year	i expect it to be a good year	y	y	1	1
+236	i expect it to be a good year	it will be a good year	y	n	0	1
+237	i look for it to be a pretty good year	it will be a good year	y	n	0	1
+238	i believe he can raise taxes and still be elected	i believe he can raise taxes and still get elected	y	y	1	1
+239	i think he can probably raise taxes and still get elected	i believe he can raise taxes and still be elected	y	n	0	1
+240	i think he can probably raise taxes and still get elected	i believe he can raise taxes and still get elected	y	y	1	1
+241	i think we collected stuff off and on over the years	i think we collected a lot over the years	y	n	0	1
+242	i think we collected a lot over the years	we collected stuff over the years	n	n	1	0
+243	i think we collected stuff off and on over the years	we collected stuff over the years	n	n	1	0
+244	i was just too lazy that trip to do all that walking	i was too lazy to do that walking	y	n	0	1
+245	i was just too lazy that trip to do all that walking	i was too lazy to walk all that way	y	n	0	1
+246	i was too lazy to do that walking	i was too lazy to walk all that way	y	y	1	1
+247	it kind of reminds me of my roots of growing up	it reminds me of my upbringing	y	n	0	1
+248	it kind of reminds me of my roots of growing up	it reminds me of when i was a child	n	y	0	1
+249	it reminds me of my upbringing	it reminds me of when i was a child	n	n	1	0
+250	just because we eating out probably five nights a week	because we eat out five nights a week	n	n	1	0
+251	because we eat out five nights a week	we usually eat out five nights a week	y	n	0	1
+252	just because we eating out probably five nights a week	we usually eat out five nights a week	y	n	0	1
+253	every team hopes their current quarterback is going to pull them through	every team is hoping their current quarterback will pull them through	y	y	1	1
+254	every team hopes their current quarterback is going to pull them through	every team wants their current quarterback to pull them through	y	n	0	1
+255	every team is hoping their current quarterback will pull them through	every team wants their current quarterback to pull them through	y	n	0	1
+256	now we recycle all our computer paper and our cardboard	all our paper and cardboard is recycled	n	n	1	0
+257	all our paper and cardboard is recycled	we recycle all our paper and cardboard	y	y	1	1
+258	now we recycle all our computer paper and our cardboard	we recycle all our paper and cardboard	n	y	0	1
+259	some of them turned out to be pretty good players	some of them were very good players	y	y	1	1
+260	some of them turned out to be pretty good players	they turned out to be good players	n	n	1	0
+261	some of them were very good players	they turned out to be good players	n	n	1	0
+262	that really nice to know because we were doing the same thing	its nice to know we were doing the same thing	y	n	0	1
+263	its nice to know we were doing the same thing	we were doing the same thing	n	n	1	0
+264	that really nice to know because we were doing the same thing	we were doing the same thing	n	n	1	0
+265	and then paid for the expenses out of that envelope	paid for the expenses out of that envelope	y	n	0	1
+266	and then paid for the expenses out of that envelope	the expenses out of that envelope were paid for	n	n	1	0
+267	paid for the expenses out of that envelope	the expenses out of that envelope were paid for	n	n	1	0
+268	i do blame it on the teachers in the school	i blame it on the teachers	n	n	1	0
+269	i blame it on the teachers	the teachers in the school are to blame	n	n	1	0
+270	i do blame it on the teachers in the school	the teachers in the school are to blame	y	y	1	1
+271	i do like going to see them in the theaters	i enjoy seeing them in the theaters	y	y	1	1
+272	i do like going to see them in the theaters	i like to see them in theaters	y	y	1	1
+273	i enjoy seeing them in the theaters	i like to see them in theaters	y	y	1	1
+274	and try to fill our day with things like that	try to fill our day with that	y	n	0	1
+275	and try to fill our day with things like that	we should fill our day with things like that	y	y	1	1
+276	try to fill our day with that	we should fill our day with things like that	n	n	1	0
+277	i have a seven year old and a three year old	i have two children a seven year old and a three year old	y	n	0	1
+278	i have a seven year old and a three year old	my kids are seven and three years old	y	n	0	1
+279	i have two children a seven year old and a three year old	my kids are seven and three years old	y	y	1	1
+280	i heard of a couple of companies that have done that	a few companies have done that	y	n	0	1
+281	a few companies have done that	there are a couple of companies that have done that	y	y	1	1
+282	i heard of a couple of companies that have done that	there are a couple of companies that have done that	y	n	0	1
+283	if you put six percent they match up to six percent	if you put six percent they will match it up	y	n	0	1
+284	if you put six percent they match up to six percent	they will match up to six percent if you put six percent	y	y	1	1
+285	if you put six percent they will match it up	they will match up to six percent if you put six percent	n	n	1	0
+286	physical or mental that they could take care of themselves	they can take care of themselves	n	n	1	0
+287	physical or mental that they could take care of themselves	they could take care of their physical and mental wellbeing	y	n	0	1
+288	they can take care of themselves	they could take care of their physical and mental wellbeing	n	n	1	0
+289	she ended up being in a different home every year	every year she was in a different home	y	n	0	1
+290	every year she was in a different home	she ended up living in different homes every year	y	y	1	1
+291	she ended up being in a different home every year	she ended up living in different homes every year	y	y	1	1
+292	i was watching the television for the first three days	the first few days i was watching tv	n	y	0	1
+293	the first three days i was glued to the television	i was watching the television for the first three days	y	y	1	1
+294	the first three days i was glued to the television	the first few days i was watching tv	n	y	0	1
+295	kids are in a day care center all day	these children are in a day care center all day	y	y	1	1
+296	these kids are just in a day care center all day	kids are in a day care center all day	n	y	0	1
+297	these kids are just in a day care center all day	these children are in a day care center all day	y	y	1	1
+298	this is the first year we done it this way	this is the first year that we have done it this way	y	y	1	1
+299	this is the first year that we have done it this way	we did it this way for the first time	y	n	0	1
+300	this is the first year we done it this way	we did it this way for the first time	n	n	1	0
+301	do you find trouble keeping the records for taxes and all that	do you find it hard to keep the tax records	n	y	0	1
+302	do you find it hard to keep the tax records	do you have difficulty keeping the records for taxes	y	y	1	1
+303	do you find trouble keeping the records for taxes and all that	do you have difficulty keeping the records for taxes	y	n	0	1
+304	disburse the money to me is what she would probably do	she is probably going to give the money to me	y	y	1	1
+305	what she probably would do is disburse the money to me	disburse the money to me is what she would probably do	y	y	1	1
+306	what she probably would do is disburse the money to me	she is probably going to give the money to me	y	y	1	1
+307	the best golf i have ever seen is your shitty one	your golf is the best i have ever seen	y	n	0	1
+308	your shitty golf is probably the best golf i ever seen	the best golf i have ever seen is your shitty one	y	y	1	1
+309	your shitty golf is probably the best golf i ever seen	your golf is the best i have ever seen	y	n	0	1
+310	because we both originally from this part of the country	we were both born in this part of the country	y	y	1	1
+311	because we both originally from this part of the country	we were both originally from this part of the country	y	n	0	1
+312	we were both born in this part of the country	we were both originally from this part of the country	y	y	1	1
+313	you need do this because it needs to be done	you have to do this because it is necessary	y	y	1	1
+314	you have to do this because it is necessary	you need to do this because its necessary	y	y	1	1
+315	you need do this because it needs to be done	you need to do this because its necessary	y	y	1	1
+316	he been the best dog i ever had in my life	he is the best dog i have ever owned	y	y	1	1
+317	he been the best dog i ever had in my life	he was the best dog i had	y	y	1	1
+318	he is the best dog i have ever owned	he was the best dog i had	n	y	0	1
+319	i do think switching back and forth is that big a deal	i think it is a big deal to switch back and forth	y	y	1	1
+320	i do think switching back and forth is that big a deal	its a big deal to switch back and forth	y	n	0	1
+321	i think it is a big deal to switch back and forth	its a big deal to switch back and forth	y	n	0	1
+322	i didnt bother to dig it out	i didnt dig it out to make sure	n	n	1	0
+323	i never bothered to dig it out and make sure	i didnt bother to dig it out	n	n	1	0
+324	i never bothered to dig it out and make sure	i didnt dig it out to make sure	y	y	1	1
+325	i still believe i get very fed up with government sometimes	i still think i get very fed up with government	y	n	0	1
+326	i still believe i get very fed up with government sometimes	sometimes i get very angry with government	y	n	0	1
+327	i still think i get very fed up with government	sometimes i get very angry with government	y	n	0	1
+328	i believe that would be a great way to do it	i think that would be a good way to do it	y	y	1	1
+329	i think that would be a wonderful way to do it	i believe that would be a great way to do it	y	y	1	1
+330	i think that would be a wonderful way to do it	i think that would be a good way to do it	y	y	1	1
+331	in day cares and in mother day out programs and	day cares and mother day out programs	y	n	0	1
+332	day cares and mother day out programs	in mother day out programs and day cares	y	n	0	1
+333	in day cares and in mother day out programs and	in mother day out programs and day cares	y	y	1	1
+334	it was a very close game and hard fought game	it was a close game	n	n	1	0
+335	it was a close game	the game was very close and hard fought	n	n	1	0
+336	it was a very close game and hard fought game	the game was very close and hard fought	y	y	1	1
+337	i guess that is what we are seeing in california	i guess what we see in california	n	n	1	0
+338	just for example what we seeing in california i guess	i guess that is what we are seeing in california	y	n	0	1
+339	just for example what we seeing in california i guess	i guess what we see in california	n	n	1	0
+340	maybe we ought to just start carving in stone again	maybe we should start carving in stone again	y	y	1	1
+341	maybe we ought to just start carving in stone again	we should just start carving again	n	y	0	1
+342	maybe we should start carving in stone again	we should just start carving again	n	y	0	1
+343	of course then we would have any room to put people	we could put people in any room we wanted	n	n	1	0
+344	of course then we would have any room to put people	we would have enough room to put people	n	n	1	0
+345	we could put people in any room we wanted	we would have enough room to put people	n	n	1	0
+346	peremptory challenges are limited to i do know how many	i know how many peremptory challenges are available	y	n	0	1
+347	i know how many peremptory challenges are available	there are only limited peremptory challenges	n	n	1	0
+348	peremptory challenges are limited to i do know how many	there are only limited peremptory challenges	n	n	1	0
+349	a simple stroll with my wife is enjoyable	a walk with my wife is very relaxing	y	n	0	1
+350	something as simple as a walk with my wife is very enjoyable	a simple stroll with my wife is enjoyable	y	y	1	1
+351	something as simple as a walk with my wife is very enjoyable	a walk with my wife is very relaxing	n	n	1	0
+352	in college i got famous for that one	that is one of the things i got famous for	n	n	1	0
+353	that one of those things i got famous for in college	in college i got famous for that one	n	n	1	0
+354	that one of those things i got famous for in college	that is one of the things i got famous for	n	n	1	0
+355	they ask you whether you want bags or paper or plastic	they ask if you want bags or paper	n	n	1	0
+356	they ask if you want bags or paper	they want to know if you want bags or paper	y	y	1	1
+357	they ask you whether you want bags or paper or plastic	they want to know if you want bags or paper	n	n	1	0
+358	they lie to us because we do want to hear the truth	we want to hear the truth and they lie to us	n	n	1	0
+359	they lie to us because we do want to hear the truth	we want to hear the truth so they lie to us	y	y	1	1
+360	we want to hear the truth and they lie to us	we want to hear the truth so they lie to us	n	n	1	0
+361	they are a football team	they are more of a football team than a basketball team	n	n	1	0
+362	they more of a football team than they are basketball team	they are a football team	n	n	1	0
+363	they more of a football team than they are basketball team	they are more of a football team than a basketball team	y	y	1	1
+364	they talk about women leaving the home and going out to work	they talk about women going to work	n	n	1	0
+365	they talk about women going to work	they talk about women leaving the home and going to work	n	n	1	0
+366	they talk about women leaving the home and going out to work	they talk about women leaving the home and going to work	y	y	1	1
+367	we got to learn to manage without destroying the environment	we have to manage without destroying the environment	y	n	0	1
+368	we got to learn to manage without destroying the environment	we need to learn to manage without damaging the environment	y	y	1	1
+369	we have to manage without destroying the environment	we need to learn to manage without damaging the environment	y	n	0	1
+370	because you know they tear you to shreds especially those rich	because they tear you to shreds	n	n	1	0
+371	because they tear you to shreds	they tear you to shreds especially those rich	n	n	1	0
+372	because you know they tear you to shreds especially those rich	they tear you to shreds especially those rich	y	n	0	1
+373	we had visited relatives in virginia not too long ago	we had visited relatives in virginia before	n	n	1	0
+374	we had visited relatives in virginia before	we visited relatives in virginia recently	n	n	1	0
+375	we had visited relatives in virginia not too long ago	we visited relatives in virginia recently	y	y	1	1
+376	what do you feel are some of the main problems	what are some of the biggest problems	y	y	1	1
+377	what are some of the biggest problems	what do you think are the main problems	y	y	1	1
+378	what do you feel are some of the main problems	what do you think are the main problems	y	y	1	1
+379	corpus you get that humid salty feeling in the air	theres a salty feeling in the air	n	n	1	0
+380	corpus you get that humid salty feeling in the air	you get that humid feeling in the air	n	n	1	0
+381	theres a salty feeling in the air	you get that humid feeling in the air	n	n	1	0
+382	have you crocheted or knitted any baby clothes or baby blankets	have you knitted or crocheted baby clothes	n	n	1	0
+383	have you crocheted or knitted any baby clothes or baby blankets	have you made baby clothes or blankets	y	y	1	1
+384	have you knitted or crocheted baby clothes	have you made baby clothes or blankets	n	n	1	0
+385	i do have to get cash out of the bank	i have to get money out of the bank	y	y	1	1
+386	i do have to get cash out of the bank	i have to withdraw money from the bank	y	y	1	1
+387	i have to get money out of the bank	i have to withdraw money from the bank	y	y	1	1
+388	i do know that their job would be at risk	i am aware that their job would be at risk	y	y	1	1
+389	i am aware that their job would be at risk	i know their job is at risk	n	n	1	0
+390	i do know that their job would be at risk	i know their job is at risk	n	n	1	0
+391	i glad i never had to do it by giving blood	i never had to give blood for it to happen	y	n	0	1
+392	i glad i never had to do it by giving blood	i never had to give blood in order to do it	n	y	0	1
+393	i never had to give blood for it to happen	i never had to give blood in order to do it	y	y	1	1
+394	i have a seven year old and a ten year old	i have two children a seven and ten year old	y	n	0	1
+395	i have a seven year old and a ten year old	i have two kids a seven year old and a ten year old	y	n	0	1
+396	i have two children a seven and ten year old	i have two kids a seven year old and a ten year old	y	y	1	1
+397	i have to admit that one of my favorite places to shop	one of my favorite places to shop	y	n	0	1
+398	i have to admit that one of my favorite places to shop	one of my favorites is that place to shop	n	n	1	0
+399	one of my favorite places to shop	one of my favorites is that place to shop	n	n	1	0
+400	i heard on the radio it was thousand and change a month	i heard it was thousand and change a month	n	n	1	0
+401	i heard it was thousand and change a month	it was thousand and change a month	y	n	0	1
+402	i heard on the radio it was thousand and change a month	it was thousand and change a month	n	n	1	0
+403	i just kind of join up when it something interesting	i join up when its something interesting	y	y	1	1
+404	i join up when its something interesting	when its something interesting i join up	y	y	1	1
+405	i just kind of join up when it something interesting	when its something interesting i join up	y	y	1	1
+406	i never read a whole one of hers i do think	i dont think i ever read a full one of hers	y	y	1	1
+407	i dont think i ever read a full one of hers	i think i never read a whole one of hers	y	y	1	1
+408	i never read a whole one of hers i do think	i think i never read a whole one of hers	y	y	1	1
+409	i think it hard to find a good day care	i think its difficult to find a good day care	y	y	1	1
+410	i think it hard to find a good day care	its hard to find good day care	y	n	0	1
+411	i think its difficult to find a good day care	its hard to find good day care	y	n	0	1
+412	anyway we both sort of agree on it do we	we agree on it do we	y	n	0	1
+413	anyway we both sort of agree on it do we	we sort of agree on it	n	n	1	0
+414	we agree on it do we	we sort of agree on it	n	n	1	0
+415	it doesnt hurt to have a good understanding of law	it doesnt hurt to have some kind of legal education	n	n	1	0
+416	it never hurts to have some kind of a grounding in law	it doesnt hurt to have a good understanding of law	y	n	0	1
+417	it never hurts to have some kind of a grounding in law	it doesnt hurt to have some kind of legal education	y	n	0	1
+418	for a long time my mother was a teacher	my mother was a teacher for many years	y	y	1	1
+419	my mother was is was teacher for years and years	for a long time my mother was a teacher	y	y	1	1
+420	my mother was is was teacher for years and years	my mother was a teacher for many years	y	y	1	1
+421	it should be too much trouble for us	that is too much trouble for the two of us	y	n	0	1
+422	that should be too much trouble for the two of us right	it should be too much trouble for us	y	n	0	1
+423	that should be too much trouble for the two of us right	that is too much trouble for the two of us	y	n	0	1
+424	some of those books are real tough to get into	its difficult to get into some of those books	y	y	1	1
+425	its difficult to get into some of those books	the books are difficult to get into	n	n	1	0
+426	some of those books are real tough to get into	the books are difficult to get into	n	y	0	1
+427	that they have all these after school activities for kids	they have after school activities for children	y	n	0	1
+428	that they have all these after school activities for kids	they have after school activities for kids	y	n	0	1
+429	they have after school activities for children	they have after school activities for kids	y	y	1	1
+430	if you made under a certain amount you would owe taxes	those who made under a certain amount would have to pay taxes	y	y	1	1
+431	those who made under a certain amount would owe any taxes	if you made under a certain amount you would owe taxes	y	y	1	1
+432	those who made under a certain amount would owe any taxes	those who made under a certain amount would have to pay taxes	y	y	1	1
+433	these people shouldnt ever get out on the street	these people will not be able to get out on the street	y	n	0	1
+434	to prevent these people from ever getting out on the street	these people shouldnt ever get out on the street	n	n	1	0
+435	to prevent these people from ever getting out on the street	these people will not be able to get out on the street	n	n	1	0
+436	we did have a solar water heater when we lived in houston	when we lived in houston we had a solar water heater	y	y	1	1
+437	we did have a solar water heater when we lived in houston	when we lived in houston we had a solar water tank	n	y	0	1
+438	when we lived in houston we had a solar water heater	when we lived in houston we had a solar water tank	n	n	1	0
+439	what do you think going to happen to the rangers	what are you thinking about the rangers	n	n	1	0
+440	what are you thinking about the rangers	what do you think will happen to the rangers	n	n	1	0
+441	what do you think going to happen to the rangers	what do you think will happen to the rangers	y	y	1	1
+442	what limits ought to be put on it do you think	what limits should be placed on it	y	n	0	1
+443	what limits ought to be put on it do you think	what limits should be put on it	y	n	0	1
+444	what limits should be placed on it	what limits should be put on it	y	y	1	1
+445	do you live in plano or work in plano or both	do you work in or live in plano	y	y	1	1
+446	do you live in plano or work in plano or both	do you work in plano or live there	n	y	0	1
+447	do you work in or live in plano	do you work in plano or live there	y	y	1	1
+448	add different blouses and scarves and belts and things like that	add scarves and belts and different things	n	y	0	1
+449	add different blouses and scarves and belts and things like that	things like scarves and belts are added	n	n	1	0
+450	add scarves and belts and different things	things like scarves and belts are added	y	n	0	1
+451	i always have my head with a magazine somewhere as we	i always have a magazine with me wherever	n	n	1	0
+452	i always have a magazine with me wherever	my head is always with a magazine	n	n	1	0
+453	i always have my head with a magazine somewhere as we	my head is always with a magazine	y	y	1	1
+454	i had a dryer an ice maker a microwave all three	i owned a dryer ice maker and microwave	y	y	1	1
+455	i had a dryer an ice maker a microwave all three	i used a dryer ice maker and microwave	n	n	1	0
+456	i owned a dryer ice maker and microwave	i used a dryer ice maker and microwave	n	n	1	0
+457	and not just taking the money but beating them half to death	taking money but beating them to death	y	y	1	1
+458	and not just taking the money but beating them half to death	taking the money but beating them to death	n	y	0	1
+459	taking money but beating them to death	taking the money but beating them to death	n	y	0	1
+460	i did the paper work but never made the call	i put in the paper work but never called	n	n	1	0
+461	i put in the paper work i just never made the call	i did the paper work but never made the call	y	n	0	1
+462	i put in the paper work i just never made the call	i put in the paper work but never called	n	n	1	0
+463	i think we try to do something a little bit	i think we attempt to do something	n	y	0	1
+464	i think we attempt to do something	we try to do something small	n	n	1	0
+465	i think we try to do something a little bit	we try to do something small	n	n	1	0
+466	and strawberries and bananas and whatever fresh fruit you want	strawberries bananas whatever fresh fruit you want	y	y	1	1
+467	and strawberries and bananas and whatever fresh fruit you want	you can have strawberries bananas or whatever fresh fruit you want	y	y	1	1
+468	strawberries bananas whatever fresh fruit you want	you can have strawberries bananas or whatever fresh fruit you want	n	y	0	1
+469	i was going to ask you if you mix it to taste	i was going to ask you to mix it	n	n	1	0
+470	i was going to say do you just mix it to taste	i was going to ask you if you mix it to taste	y	y	1	1
+471	i was going to say do you just mix it to taste	i was going to ask you to mix it	n	n	1	0
+472	about ten or fifteen years ago	i would say about fifteen years ago	n	n	1	0
+473	i would say about ten or fifteen years ago i	about ten or fifteen years ago	y	y	1	1
+474	i would say about ten or fifteen years ago i	i would say about fifteen years ago	y	n	0	1
+475	if they are losing money then they going to raise rates	if they are losing money then they will raise rates	y	y	1	1
+476	if they are losing money then they going to raise rates	if they are losing money they will raise rates	y	y	1	1
+477	if they are losing money then they will raise rates	if they are losing money they will raise rates	y	y	1	1
+478	i can still remember a couple of them	i can still remember a few	y	y	1	1
+479	in fact i can still remember a couple of those	i can still remember a couple of them	y	y	1	1
+480	in fact i can still remember a couple of those	i can still remember a few	y	y	1	1
+481	it did seem like there was much coverage of the story	it appeared that there was a lot of coverage of the story	y	y	1	1
+482	it appeared that there was a lot of coverage of the story	it seemed like there was a lot of coverage of the story	y	y	1	1
+483	it did seem like there was much coverage of the story	it seemed like there was a lot of coverage of the story	y	y	1	1
+484	it green with all the trees and things out here	its green with all the trees outside	n	y	0	1
+485	it green with all the trees and things out here	its green with the trees and things	y	n	0	1
+486	its green with all the trees outside	its green with the trees and things	n	n	1	0
+487	much as other cultures disagree our lives do revolve around our children	our lives are more about our children than other cultures agree	y	y	1	1
+488	much as other cultures disagree our lives do revolve around our children	our lives do depend on our children	n	n	1	0
+489	our lives are more about our children than other cultures agree	our lives do depend on our children	n	n	1	0
+490	they do really pay a whole lot of attention to buffers	they pay a lot of attention to buffer levels	y	y	1	1
+491	they do really pay a whole lot of attention to buffers	they really pay attention to the buffer	y	y	1	1
+492	they pay a lot of attention to buffer levels	they really pay attention to the buffer	y	n	0	1
+493	this was before i lost a lot more of my family	this was before i lost a lot of people	y	y	1	1
+494	this was before i lost a lot more of my family	this was before i lost more of my family	y	y	1	1
+495	this was before i lost a lot of people	this was before i lost more of my family	n	n	1	0
+496	we got two great big windows in our back bathroom	our bathroom has two big windows	y	n	0	1
+497	our bathroom has two big windows	we have two big windows in our bathroom	y	y	1	1
+498	we got two great big windows in our back bathroom	we have two big windows in our bathroom	y	n	0	1
+499	i assume you were talking about the new ninja turtles	i assume you are talking about the new turtles	y	n	0	1
+500	i assume you are talking about the new turtles	i assume you were talking about the turtles	n	y	0	1
+501	i assume you were talking about the new ninja turtles	i assume you were talking about the turtles	n	n	1	0
+502	a lot of people like to go down and camp down inside	a lot of people like to camp inside	n	y	0	1
+503	a lot of people like to camp inside	many people like to camp inside	y	y	1	1
+504	a lot of people like to go down and camp down inside	many people like to camp inside	n	n	1	0
+505	i got a lot of things to keep me busy	i have many things to keep me busy	y	y	1	1
+506	i got a lot of things to keep me busy	there are a lot of things i need to keep busy	n	n	1	0
+507	i have many things to keep me busy	there are a lot of things i need to keep busy	n	n	1	0
+508	about the only thing i really recycle around here is aluminum cans	i only recycle aluminum cans	y	y	1	1
+509	about the only thing i really recycle around here is aluminum cans	i recycle aluminum cans	n	n	1	0
+510	i only recycle aluminum cans	i recycle aluminum cans	n	n	1	0
+511	i disagree with most people	i have an opposite opinion of most people	y	y	1	1
+512	i have kind of the opposite opinion of most people	i disagree with most people	y	y	1	1
+513	i have kind of the opposite opinion of most people	i have an opposite opinion of most people	y	y	1	1
+514	i think that kind of when my husband hit the roof	i think that happened when my husband hit the roof	n	n	1	0
+515	i think that happened when my husband hit the roof	i think that when my husband hit the roof	n	n	1	0
+516	i think that kind of when my husband hit the roof	i think that when my husband hit the roof	y	y	1	1
+517	i try to catch whoever in town	i usually try to catch someone in town	y	n	0	1
+518	i usually try to catch whoever in town though i do specifically	i try to catch whoever in town	y	n	0	1
+519	i usually try to catch whoever in town though i do specifically	i usually try to catch someone in town	n	y	0	1
+520	day care has done a lot for him	day care has done amazing things with him	y	y	1	1
+521	day care has just done just incredible stuff with him	day care has done a lot for him	n	y	0	1
+522	day care has just done just incredible stuff with him	day care has done amazing things with him	y	y	1	1
+523	i was eighth and ninth graders that i worked with	i worked with a number of students	n	y	0	1
+524	i was eighth and ninth graders that i worked with	i worked with ninth and eighth graders	n	y	0	1
+525	i worked with a number of students	i worked with ninth and eighth graders	n	y	0	1
+526	i left high school mature	i was quite mature when i left high school	y	y	1	1
+527	in fact i was very mature when i left high school	i left high school mature	y	y	1	1
+528	in fact i was very mature when i left high school	i was quite mature when i left high school	y	y	1	1
+529	i said he did know what he was doing	i said he knew what he was doing	y	y	1	1
+530	like i said he did know what he was doing	i said he did know what he was doing	y	n	0	1
+531	like i said he did know what he was doing	i said he knew what he was doing	n	n	1	0
+532	silence of the lambs kept me on the edge of my seat	i was on the edge of my seat	n	n	1	0
+533	i was on the edge of my seat	the lambs were silent and kept me on the edge of my seat	n	n	1	0
+534	silence of the lambs kept me on the edge of my seat	the lambs were silent and kept me on the edge of my seat	n	n	1	0
+535	i felt like i missed that in life	i missed it in life	n	n	1	0
+536	that one of things i felt like i missed in life	i felt like i missed that in life	y	n	0	1
+537	that one of things i felt like i missed in life	i missed it in life	n	n	1	0
+538	that way you just did put it on your credit card	it was placed on your credit card	y	n	0	1
+539	it was placed on your credit card	you just put it on your credit card	y	n	0	1
+540	that way you just did put it on your credit card	you just put it on your credit card	y	y	1	1
+541	i think the blue ridge in north carolina is nicer	i think the blue ridge is better in north carolina	y	y	1	1
+542	the blue ridge in north carolina i think are much nicer	i think the blue ridge in north carolina is nicer	y	y	1	1
+543	the blue ridge in north carolina i think are much nicer	i think the blue ridge is better in north carolina	y	y	1	1
+544	the time really to get involved in the organized sort of format	the time to get involved in a format	y	y	1	1
+545	the time really to get involved in the organized sort of format	the time to get involved in an organized format	y	y	1	1
+546	the time to get involved in a format	the time to get involved in an organized format	y	y	1	1
+547	the ten key could hurt me	they could hurt me with their ten key	y	y	1	1
+548	they could hurt me with their ten key or something	the ten key could hurt me	n	n	1	0
+549	they could hurt me with their ten key or something	they could hurt me with their ten key	y	y	1	1
+550	for the companies that already have a presence over there	for the companies that have a presence there	y	y	1	1
+551	for the companies that already have a presence over there	the companies that already have a presence over there	y	y	1	1
+552	for the companies that have a presence there	the companies that already have a presence over there	n	n	1	0
+553	i always kept plenty of money in my checking account	i always kept money in my checking account	n	y	0	1
+554	i always kept money in my checking account	i kept a lot of money in my account	n	n	1	0
+555	i always kept plenty of money in my checking account	i kept a lot of money in my account	y	n	0	1
+556	i even in worse shape because i have eight children	i have a lot of children and i am in worse shape	n	n	1	0
+557	i even in worse shape because i have eight children	i have eight children and i in worse shape	y	n	0	1
+558	i have a lot of children and i am in worse shape	i have eight children and i in worse shape	n	n	1	0
+559	i guess one thing that i found sort of interesting	i find one thing interesting	y	n	0	1
+560	i find one thing interesting	one thing i found interesting	n	n	1	0
+561	i guess one thing that i found sort of interesting	one thing i found interesting	y	n	0	1
+562	i hope you have a good rest of your weekend	i hope you have a peaceful weekend	n	y	0	1
+563	i hope you have a good rest of your weekend	i wish you a good weekend	y	n	0	1
+564	i hope you have a peaceful weekend	i wish you a good weekend	y	y	1	1
+565	i like seeing other countries and shopping in other places	i enjoy seeing other countries and shopping there	y	n	0	1
+566	i enjoy seeing other countries and shopping there	i like to shop in other places	n	n	1	0
+567	i like seeing other countries and shopping in other places	i like to shop in other places	n	n	1	0
+568	i plan on getting back once i graduate next weekend	i going to get back once i graduate	n	n	1	0
+569	i going to get back once i graduate	i will return once i graduate next weekend	y	n	0	1
+570	i plan on getting back once i graduate next weekend	i will return once i graduate next weekend	y	y	1	1
+571	i think the four door is probably a major requirement	i believe the four door is a major requirement	y	y	1	1
+572	i believe the four door is a major requirement	the four door is probably the most important	n	n	1	0
+573	i think the four door is probably a major requirement	the four door is probably the most important	n	n	1	0
+574	it costs more for the bottles than it did for the cokes	it costs more for bottles than it does for cokes	y	y	1	1
+575	it costs more for bottles than it does for cokes	the bottles cost more than cokes	y	y	1	1
+576	it costs more for the bottles than it did for the cokes	the bottles cost more than cokes	y	y	1	1
+577	it sort of takes the justice out of the justice system	it takes the justice away from the system	y	y	1	1
+578	it sort of takes the justice out of the justice system	the justice is taken out of the system	n	n	1	0
+579	it takes the justice away from the system	the justice is taken out of the system	y	n	0	1
+580	are you a native of that part of the country	are you a native of the area	y	y	1	1
+581	are you a native of that part of the country	are you native to that part of the country	y	y	1	1
+582	are you a native of the area	are you native to that part of the country	y	y	1	1
+583	how well that works will be interesting	it will be interesting to see how it goes	y	y	1	1
+584	it will be interesting to see how well that works	how well that works will be interesting	y	y	1	1
+585	it will be interesting to see how well that works	it will be interesting to see how it goes	y	y	1	1
+586	right now i got it narrowed down to the top four teams	i narrowed it down to the top four	n	n	1	0
+587	i narrowed it down to the top four	the top four teams are what i have narrowed down	n	n	1	0
+588	right now i got it narrowed down to the top four teams	the top four teams are what i have narrowed down	y	y	1	1
+589	the place i work at health insurance is kind of expensive	the place i work at is expensive	n	n	1	0
+590	the place i work at health insurance is kind of expensive	the place where i work at health insurance is expensive	y	y	1	1
+591	the place i work at is expensive	the place where i work at health insurance is expensive	n	n	1	0
+592	they know they going to get the chair if they get caught	if they get caught they get the chair	y	y	1	1
+593	if they get caught they get the chair	they know they will get the chair if they are caught	n	y	0	1
+594	they know they going to get the chair if they get caught	they know they will get the chair if they are caught	y	y	1	1
+595	cents out of every dollar i make goes to the government	every dollar i make goes to the government	n	n	1	0
+596	cents out of every dollar i make goes to the government	the government gets cents out of each dollar i make	y	y	1	1
+597	every dollar i make goes to the government	the government gets cents out of each dollar i make	n	n	1	0
+598	this is something that ought to be in the schools	this is something that should be in the schools	y	y	1	1
+599	this is something that ought to be in the schools	this needs to be in the schools	y	y	1	1
+600	this is something that should be in the schools	this needs to be in the schools	y	n	0	1
+601	a case where there was a sort of freak ice storm	a case where there was an ice storm	n	n	1	0
+602	a case where there was a sort of freak ice storm	there was a freak ice storm	y	n	0	1
+603	a case where there was an ice storm	there was a freak ice storm	n	n	1	0
+604	i had to talk about this topic accidentally	this is an accident that i have to talk about	n	n	1	0
+605	this is totally accidental that i have to talk about this topic	i had to talk about this topic accidentally	y	y	1	1
+606	this is totally accidental that i have to talk about this topic	this is an accident that i have to talk about	n	n	1	0
+607	what kind of work do you do when you consulting	what kind of work do you do when you consult	y	y	1	1
+608	what kind of work do you do when you consult	what type of work do you do when you are consulting	y	y	1	1
+609	what kind of work do you do when you consulting	what type of work do you do when you are consulting	y	y	1	1
+610	you have a modem that you can connect to each of them	you have a modem that you can connect to	n	y	0	1
+611	you have a modem that you can connect to	you have a modem that you can use for each of them	n	y	0	1
+612	you have a modem that you can connect to each of them	you have a modem that you can use for each of them	y	y	1	1
+613	we kind of tended to eat out a bit more	we ate a bit more out	y	n	0	1
+614	we ate a bit more out	we tend to eat out a bit more	n	n	1	0
+615	we kind of tended to eat out a bit more	we tend to eat out a bit more	y	n	0	1
+616	we laid those bricks about as close as you can get them	we laid the bricks close to each other	y	y	1	1
+617	we laid the bricks close to each other	we laid those bricks as close as possible	n	n	1	0
+618	we laid those bricks about as close as you can get them	we laid those bricks as close as possible	y	y	1	1
+619	we not talking about issues we talking about somebody personal life	we are talking about personal life	n	n	1	0
+620	we are talking about personal life	we talking about personal life	y	y	1	1
+621	we not talking about issues we talking about somebody personal life	we talking about personal life	n	n	1	0
+622	what kind of plastic stuff can you recycle do you know	what kind of plastic can you recycle	y	y	1	1
+623	what kind of plastic can you recycle	what sort of plastic can you recycle	y	y	1	1
+624	what kind of plastic stuff can you recycle do you know	what sort of plastic can you recycle	y	y	1	1
+625	boy current events is not a good subject for me	current events arent a good subject for me	y	y	1	1
+626	boy current events is not a good subject for me	current events dont interest me	n	n	1	0
+627	current events arent a good subject for me	current events dont interest me	n	n	1	0
+628	i almost never watch television as a matter of course	i almost never watch tv	y	y	1	1
+629	i almost never watch television as a matter of course	i mostly never watch television	y	y	1	1
+630	i almost never watch tv	i mostly never watch television	y	y	1	1
+631	i am thinking about where you can ski over the state line	i am thinking about where you can ski	n	n	1	0
+632	i am thinking about where you can ski	where can you ski over the state line	n	n	1	0
+633	i am thinking about where you can ski over the state line	where can you ski over the state line	n	n	1	0
+634	i guess i take it for granted kind of because i just	i just take it for granted	y	n	0	1
+635	i guess i take it for granted kind of because i just	i take it for granted	n	n	1	0
+636	i just take it for granted	i take it for granted	y	y	1	1
+637	i hope i do see a lot more single moms	i hope i see a lot of single moms	n	n	1	0
+638	i hope i do see a lot more single moms	i would like to see more single moms	y	y	1	1
+639	i hope i see a lot of single moms	i would like to see more single moms	n	n	1	0
+640	i know we have a lot of chemical the indoor type pollution	i am aware of the indoor type pollution	n	y	0	1
+641	i am aware of the indoor type pollution	we have a lot of indoor pollution	n	n	1	0
+642	i know we have a lot of chemical the indoor type pollution	we have a lot of indoor pollution	n	n	1	0
+643	i think we talked for a good eight minutes about the subject	i think we talked for about eight minutes	y	n	0	1
+644	i think we talked for a good eight minutes about the subject	we talked for about eight minutes	n	y	0	1
+645	i think we talked for about eight minutes	we talked for about eight minutes	y	n	0	1
+646	i enjoy having people over for dinner	i like having people over for dinner	y	y	1	1
+647	if i have people over for dinner i like it to be	i enjoy having people over for dinner	y	n	0	1
+648	if i have people over for dinner i like it to be	i like having people over for dinner	y	n	0	1
+649	i just get that if it was level	if it was level i get that	y	y	1	1
+650	if it was quite level or something i just get that	i just get that if it was level	y	y	1	1
+651	if it was quite level or something i just get that	if it was level i get that	y	n	0	1
+652	it looked to me like it was a real submarine	it looked like a real submarine	y	y	1	1
+653	it looked like a real submarine	it seemed to me like it was a real submarine	y	y	1	1
+654	it looked to me like it was a real submarine	it seemed to me like it was a real submarine	y	y	1	1
+655	and studied every bit of material that i could study	i studied every part of the material	n	n	1	0
+656	and studied every bit of material that i could study	i studied every piece of material i could	y	y	1	1
+657	i studied every part of the material	i studied every piece of material i could	n	n	1	0
+658	people go to the countries with them	people would always bring them	n	n	1	0
+659	people would always bring them when they go to the countries	people go to the countries with them	y	y	1	1
+660	people would always bring them when they go to the countries	people would always bring them	n	n	1	0
+661	that is just one of the many rumors	that is one of the many rumors floating around	y	y	1	1
+662	that just one of the many rumors that floats around	that is just one of the many rumors	y	y	1	1
+663	that just one of the many rumors that floats around	that is one of the many rumors floating around	y	y	1	1
+664	that they feel and decide what best for them and their family	they decide whats best for their family	y	y	1	1
+665	that they feel and decide what best for them and their family	they decide whats best for them and their family	y	n	0	1
+666	they decide whats best for their family	they decide whats best for them and their family	n	y	0	1
+667	the only thing i know that you can recycle is milk jugs	milk jugs can be recycled	n	n	1	0
+668	milk jugs can be recycled	you can recycle milk jugs	y	y	1	1
+669	the only thing i know that you can recycle is milk jugs	you can recycle milk jugs	y	n	0	1
+670	if you run into one its quite a task	its quite a task if you run into one	y	y	1	1
+671	there quite a task if you ever run into one	if you run into one its quite a task	y	y	1	1
+672	there quite a task if you ever run into one	its quite a task if you run into one	y	y	1	1
+673	we have a lot of allergies	we have a lot of allergies down here	n	n	1	0
+674	we having a lot of allergies down here right now	we have a lot of allergies	n	n	1	0
+675	we having a lot of allergies down here right now	we have a lot of allergies down here	n	n	1	0
+676	check it over real carefully and check the block and everything	carefully inspect the block and everything	y	n	0	1
+677	carefully inspect the block and everything	make sure to check the block and everything	y	y	1	1
+678	check it over real carefully and check the block and everything	make sure to check the block and everything	y	n	0	1
+679	whatever kind of community or public service might be available	whatever kind of public service might be available	n	n	1	0
+680	whatever kind of community or public service might be available	whatever kind of service is available	n	y	0	1
+681	whatever kind of public service might be available	whatever kind of service is available	n	n	1	0
+682	you need somebody to kind of tell you what to do	somebody can tell you what to do	n	n	1	0
+683	somebody can tell you what to do	you need someone to tell you what to do	n	n	1	0
+684	you need somebody to kind of tell you what to do	you need someone to tell you what to do	y	n	0	1
+685	did you embroidery the pattern and then quilt it yourself	did you make your own quilt from the pattern	n	n	1	0
+686	did you embroidery the pattern and then quilt it yourself	did you quilt it yourself	n	n	1	0
+687	did you make your own quilt from the pattern	did you quilt it yourself	n	n	1	0
+688	i do think i ever seen them not look happy	i have seen them not look happy	n	n	1	0
+689	i do think i ever seen them not look happy	i think they are not happy	n	n	1	0
+690	i have seen them not look happy	i think they are not happy	y	n	0	1
+691	even though there are problems i feel lucky	i feel fortunate in that even though there are some problems	y	n	0	1
+692	i really feel fortunate in that there even though there are problems	even though there are problems i feel lucky	y	y	1	1
+693	i really feel fortunate in that there even though there are problems	i feel fortunate in that even though there are some problems	y	y	1	1
+694	i think he gets beat up even though he big because he	i think he gets beat up	n	n	1	0
+695	i think he gets beat up	i think he gets beat up even though he is big	n	n	1	0
+696	i think he gets beat up even though he big because he	i think he gets beat up even though he is big	y	n	0	1
+697	i thought at one time i wanted to be a teacher	at one point i wanted to be a teacher	y	n	0	1
+698	at one point i wanted to be a teacher	i wanted to be a teacher at one time	y	y	1	1
+699	i thought at one time i wanted to be a teacher	i wanted to be a teacher at one time	y	n	0	1
+700	i was even looking for a car when i bought this car	i was looking for a car when i bought this one	y	y	1	1
+701	i was even looking for a car when i bought this car	when i bought this car i was looking for a new vehicle	y	y	1	1
+702	i was looking for a car when i bought this one	when i bought this car i was looking for a new vehicle	y	y	1	1
+703	in fact they never thought it would be a hit	they never expected it to be a hit	y	y	1	1
+704	in fact they never thought it would be a hit	they never imagined it would be a hit	y	y	1	1
+705	they never expected it to be a hit	they never imagined it would be a hit	y	y	1	1
+706	it supposed to be a huge problem with truck drivers using drugs	drug use by truck drivers should be a huge problem	y	n	0	1
+707	drug use by truck drivers should be a huge problem	its supposed to be a big problem with truck drivers	y	n	0	1
+708	it supposed to be a huge problem with truck drivers using drugs	its supposed to be a big problem with truck drivers	n	n	1	0
+709	it was a nice part of the country	it was a nice part of the country and relaxing	n	n	1	0
+710	it was so relaxing and a really neat part of the country	it was a nice part of the country	n	n	1	0
+711	it was so relaxing and a really neat part of the country	it was a nice part of the country and relaxing	y	n	0	1
+712	not like texas where everything comes to a stand still	not like texas where everything comes to a stand	y	y	1	1
+713	not like texas where everything comes to a stand	not like texas where you have to stand still	n	n	1	0
+714	not like texas where everything comes to a stand still	not like texas where you have to stand still	n	n	1	0
+715	it was put on credit cards	she put it on her credit cards	y	n	0	1
+716	sort of reluctantly let her put it on credit cards	it was put on credit cards	n	n	1	0
+717	sort of reluctantly let her put it on credit cards	she put it on her credit cards	n	n	1	0
+718	the places we gone they sing in the original languages	they sing in the original languages	n	n	1	0
+719	the places we gone they sing in the original languages	they sing in the original languages where we went	y	y	1	1
+720	they sing in the original languages	they sing in the original languages where we went	n	n	1	0
+721	a lot of body heat will be taken away by wind	the wind takes away body heat	y	n	0	1
+722	the wind will take away a lot of body heat	a lot of body heat will be taken away by wind	y	y	1	1
+723	the wind will take away a lot of body heat	the wind takes away body heat	y	n	0	1
+724	they did special stories on the local news	they did stories on the local news	n	n	1	0
+725	they done special stories on the news local news here	they did special stories on the local news	y	n	0	1
+726	they done special stories on the news local news here	they did stories on the local news	n	n	1	0
+727	i want to make my telephone cord stretch far enough	if i can stretch my phone cord far enough	n	n	1	0
+728	see if i can make my telephone cord stretch far enough	i want to make my telephone cord stretch far enough	y	n	0	1
+729	see if i can make my telephone cord stretch far enough	if i can stretch my phone cord far enough	n	n	1	0
+730	it took all day to get it plumbed	it was an all day job to get it plumbed	y	y	1	1
+731	that was an all day job just to get it plumbed	it took all day to get it plumbed	y	n	0	1
+732	that was an all day job just to get it plumbed	it was an all day job to get it plumbed	y	y	1	1
+733	they really looking for a lot more men to participate	they need more men to participate	n	n	1	0
+734	they need more men to participate	they want a lot more men to participate	y	y	1	1
+735	they really looking for a lot more men to participate	they want a lot more men to participate	y	n	0	1
+736	they were given seven minutes	we gave them about seven minutes	y	n	0	1
+737	we given them about seven minutes according to my watch	they were given seven minutes	y	n	0	1
+738	we given them about seven minutes according to my watch	we gave them about seven minutes	n	n	1	0
+739	what he going to be doing when he turns into an adult	when he becomes an adult what will he do	y	y	1	1
+740	what he going to be doing when he turns into an adult	when he turns into an adult what will he do	y	y	1	1
+741	when he becomes an adult what will he do	when he turns into an adult what will he do	y	y	1	1
+742	when you see all these horror stories on television about child care	there are horror stories about child care	n	n	1	0
+743	there are horror stories about child care	when you see horror stories about child care	y	n	0	1
+744	when you see all these horror stories on television about child care	when you see horror stories about child care	n	n	1	0
+745	will they let you take a computer home to work	will they allow you to take a computer home to work	y	y	1	1
+746	will they allow you to take a computer home to work	will you be allowed to take a computer home to use	n	y	0	1
+747	will they let you take a computer home to work	will you be allowed to take a computer home to use	n	y	0	1
+748	do you feel a bit out of it	do you feel a little bit out of it	y	y	1	1
+749	you feel like you a little bit out of it do you	do you feel a bit out of it	y	n	0	1
+750	you feel like you a little bit out of it do you	do you feel a little bit out of it	y	n	0	1
+751	do you like to wear jeans most of the time	do you enjoy wearing jeans most of the time	y	y	1	1
+752	do you enjoy wearing jeans most of the time	do you like wearing jeans most of the time	y	y	1	1
+753	do you like to wear jeans most of the time	do you like wearing jeans most of the time	y	y	1	1
+754	have been doing much of that for the last year or so	i have been doing that for the last year or so	y	n	0	1
+755	have been doing much of that for the last year or so	over the last year or so i have been doing that	y	n	0	1
+756	i have been doing that for the last year or so	over the last year or so i have been doing that	y	y	1	1
+757	i buy a lot of wood working equipment through the mail	i buy a lot of wood working equipment through mail	y	y	1	1
+758	i buy a lot of wood working equipment through mail	i get a lot of wood working equipment through mail	n	y	0	1
+759	i buy a lot of wood working equipment through the mail	i get a lot of wood working equipment through mail	n	y	0	1
+760	i could have asked for anything better i do think	i could have asked for more	n	n	1	0
+761	i could have asked for anything better i do think	i think i could have asked for better	y	n	0	1
+762	i could have asked for more	i think i could have asked for better	n	n	1	0
+763	i do a lot of training of our customers for new products	i do a lot of training for new products	n	n	1	0
+764	i do a lot of training for new products	i train my customers for new products	n	n	1	0
+765	i do a lot of training of our customers for new products	i train my customers for new products	y	y	1	1
+766	i do really read the books or things like that	i like reading books	n	n	1	0
+767	i do really read the books or things like that	i read a lot	n	y	0	1
+768	i like reading books	i read a lot	n	n	1	0
+769	i do think this place is a very good place for him	i think this is a good place for him	y	n	0	1
+770	i do think this place is a very good place for him	this place is a good place for him	y	n	0	1
+771	i think this is a good place for him	this place is a good place for him	y	n	0	1
+772	i guess i have ever had any trouble with that	i have had no problems with that	n	n	1	0
+773	i guess i have ever had any trouble with that	i have never had trouble with that	n	n	1	0
+774	i have had no problems with that	i have never had trouble with that	y	y	1	1
+775	and did really put them draft for any particular spot	they drafted for any spot they wanted	n	n	1	0
+776	and did really put them draft for any particular spot	they put them draft for any spot	n	n	1	0
+777	they drafted for any spot they wanted	they put them draft for any spot	n	n	1	0
+778	i have been at home for nine years	i have been living at home for the last nine years	y	n	0	1
+779	i have stayed home for about the last nine years	i have been at home for nine years	y	y	1	1
+780	i have stayed home for about the last nine years	i have been living at home for the last nine years	y	y	1	1
+781	i think it was a little early part of the summer	i believe it was early in the summer	y	y	1	1
+782	i believe it was early in the summer	it was early in the summer	y	n	0	1
+783	i think it was a little early part of the summer	it was early in the summer	y	n	0	1
+784	i was raised in a generation we did need all those things	we did need all those things when i was a child	y	y	1	1
+785	i was raised in a generation we did need all those things	we did need all those things when i was young	y	y	1	1
+786	we did need all those things when i was a child	we did need all those things when i was young	y	y	1	1
+787	in europe there a lot of dependency on nuclear power	nuclear power is a lot dependent in europe	n	n	1	0
+788	in europe there a lot of dependency on nuclear power	there is a lot of dependence on nuclear power	n	n	1	0
+789	nuclear power is a lot dependent in europe	there is a lot of dependence on nuclear power	n	n	1	0
+790	in the future i think maybe to help in some ways	in the future i think maybe to help	y	n	0	1
+791	in the future i think maybe to help	maybe in the future ill be able to help	y	n	0	1
+792	in the future i think maybe to help in some ways	maybe in the future ill be able to help	y	y	1	1
+793	a lot of people just do have time to read nowadays	a lot of people have time to read	y	n	0	1
+794	a lot of people have time to read	a lot of people read	n	n	1	0
+795	a lot of people just do have time to read nowadays	a lot of people read	n	n	1	0
+796	they decided if they can test them	they decided if they can test them or not	y	y	1	1
+797	they have ruled on whether they can test them or not	they decided if they can test them	y	y	1	1
+798	they have ruled on whether they can test them or not	they decided if they can test them or not	y	y	1	1
+799	there is a basis for the discussion	we have a basis for the conversation	y	n	0	1
+800	we have a little bit of a basis for conversation	there is a basis for the discussion	y	n	0	1
+801	we have a little bit of a basis for conversation	we have a basis for the conversation	y	n	0	1
+802	there is a good size pantry in our kitchen	we have a pantry in the kitchen	n	n	1	0
+803	we have a pretty good size pantry in our kitchen	there is a good size pantry in our kitchen	y	n	0	1
+804	we have a pretty good size pantry in our kitchen	we have a pantry in the kitchen	n	n	1	0
+805	hundreds of thousands of people is what it seemed like	it seemed like a lot of people	y	y	1	1
+806	hundreds of thousands of people is what it seemed like	it seemed like there were hundreds of thousands of people	y	n	0	1
+807	it seemed like a lot of people	it seemed like there were hundreds of thousands of people	y	y	1	1
+808	the outer banks of north carolina are where we were recently	we were at the outer banks of north carolina recently	y	y	1	1
+809	we were just out recently at the outer banks of north carolina	the outer banks of north carolina are where we were recently	y	y	1	1
+810	we were just out recently at the outer banks of north carolina	we were at the outer banks of north carolina recently	y	y	1	1
+811	i went back to work a year and a half ago	returned to work about a year and a half ago	y	y	1	1
+812	went back to work about a year and a half ago	i went back to work a year and a half ago	y	y	1	1
+813	went back to work about a year and a half ago	returned to work about a year and a half ago	y	y	1	1
+814	does it get crowded on weekends	it is crowded on the weekends	y	n	0	1
+815	when you there on weekends is it crowded as hell	does it get crowded on weekends	n	y	0	1
+816	when you there on weekends is it crowded as hell	it is crowded on the weekends	n	n	1	0
+817	he was able to do that for the first year	it was the first year he was able to	y	y	1	1
+818	which was really the first year he was really able to	he was able to do that for the first year	y	n	0	1
+819	which was really the first year he was really able to	it was the first year he was able to	y	n	0	1
+820	in the big ones you dont hear about it	you dont hear much about it in the big ones	n	y	0	1
+821	you never hear about it really in the big ones	in the big ones you dont hear about it	y	y	1	1
+822	you never hear about it really in the big ones	you dont hear much about it in the big ones	n	n	1	0
+823	i do a lot of work with the boy scouts	i help with the boy scouts	n	n	1	0
+824	i do a lot of work with the boy scouts	i work for the boy scouts	n	n	1	0
+825	i help with the boy scouts	i work for the boy scouts	n	n	1	0
+826	i do know if you have had that problem there or not	i am aware if you have had that problem	y	y	1	1
+827	i am aware if you have had that problem	i know if you have had that issue there	y	y	1	1
+828	i do know if you have had that problem there or not	i know if you have had that issue there	y	y	1	1
+829	i do usually use the colors they tell me to	i use the colors that they tell me	y	n	0	1
+830	i do usually use the colors they tell me to	i use the colors they tell me to use	y	n	0	1
+831	i use the colors that they tell me	i use the colors they tell me to use	y	y	1	1
+832	i know it too bad that they gotten so expensive	i know its bad that they got so expensive	y	n	0	1
+833	i know it too bad that they gotten so expensive	i know its too bad that they cost so much	y	n	0	1
+834	i know its bad that they got so expensive	i know its too bad that they cost so much	y	y	1	1
+835	i was just pissed as hell that they could do that	i was angry that they were capable of doing that	y	n	0	1
+836	i was angry that they were capable of doing that	i was mad that they could do that	y	y	1	1
+837	i was just pissed as hell that they could do that	i was mad that they could do that	y	n	0	1
+838	only the guns were in the hands of the criminals	the criminals had the guns	n	n	1	0
+839	only the guns were in the hands of the criminals	the guns were in the hands of criminals	n	n	1	0
+840	the criminals had the guns	the guns were in the hands of criminals	y	y	1	1
+841	so far they have run into the real psychos yet	the real psychos have yet to be encountered	n	n	1	0
+842	so far they have run into the real psychos yet	they have yet to run into the real psychos	y	n	0	1
+843	the real psychos have yet to be encountered	they have yet to run into the real psychos	y	y	1	1
+844	sometimes i think they carry it a little bit too far	i think they carry it a bit too far	n	n	1	0
+845	i think they carry it a bit too far	sometimes they carry it too far	n	n	1	0
+846	sometimes i think they carry it a little bit too far	sometimes they carry it too far	y	n	0	1
+847	the city government wanted to institute the random drug testing	random drug testing was wanted by the city	y	y	1	1
+848	random drug testing was wanted by the city	the city wanted to randomly test for drugs	y	y	1	1
+849	the city government wanted to institute the random drug testing	the city wanted to randomly test for drugs	y	y	1	1
+850	the deal the iraqis have with the russians was for oil	the deal the iraqis had with the russians was for oil	n	y	0	1
+851	the deal the iraqis had with the russians was for oil	the iraqis had a deal with the russians	n	n	1	0
+852	the deal the iraqis have with the russians was for oil	the iraqis had a deal with the russians	n	n	1	0
+853	does it just want to sniff around and play when it outside	does it just want to sniff and play	n	n	1	0
+854	does it just want to sniff and play	does it want to play when it is outside	n	n	1	0
+855	does it just want to sniff around and play when it outside	does it want to play when it is outside	n	n	1	0
+856	he really wished he could be here rather than there	he wished he could be here	n	y	0	1
+857	he really wished he could be here rather than there	he would have preferred to be here rather than there	y	y	1	1
+858	he wished he could be here	he would have preferred to be here rather than there	y	y	1	1
+859	i also have a part time job at a law firm	i am employed at a law firm	n	n	1	0
+860	i also have a part time job at a law firm	i have a part time job at the law firm	y	n	0	1
+861	i am employed at a law firm	i have a part time job at the law firm	n	n	1	0
+862	i do know if your campus was anything like ours	i am aware that your campus was similar to ours	n	n	1	0
+863	i am aware that your campus was similar to ours	i know if your campus was like us	n	n	1	0
+864	i do know if your campus was anything like ours	i know if your campus was like us	n	y	0	1
+865	i guess that the best i ever got was lousy	i think that the best i ever got was bad	y	y	1	1
+866	i guess that the best i ever got was lousy	the worst i ever got was lousy	n	n	1	0
+867	i think that the best i ever got was bad	the worst i ever got was lousy	y	n	0	1
+868	i notice the plastic have sort of faded away the milk jugs	i notice the plastic has faded	n	n	1	0
+869	i notice the plastic has faded	the plastic jugs have faded a bit	n	n	1	0
+870	i notice the plastic have sort of faded away the milk jugs	the plastic jugs have faded a bit	n	n	1	0
+871	lately i have been catching it because of my work schedule	i caught it because of my work schedule	y	n	0	1
+872	i caught it because of my work schedule	my work schedule has made me catch it lately	y	n	0	1
+873	lately i have been catching it because of my work schedule	my work schedule has made me catch it lately	y	y	1	1
+874	our friend the president right now says no new taxes	the president says no new taxes at the moment	n	n	1	0
+875	our friend the president right now says no new taxes	the president says there are no new taxes right now	n	n	1	0
+876	the president says no new taxes at the moment	the president says there are no new taxes right now	y	y	1	1
+877	i guess some of it falls in the rap category	it kind of falls in the rap category	y	n	0	1
+878	some of it kind of falls in the rap category i guess	i guess some of it falls in the rap category	y	n	0	1
+879	some of it kind of falls in the rap category i guess	it kind of falls in the rap category	y	n	0	1
+880	sounds like you all pretty much do it the same we do	sounds like you all do the same thing	n	n	1	0
+881	sounds like you all do the same thing	we do it the same as you	n	n	1	0
+882	sounds like you all pretty much do it the same we do	we do it the same as you	y	n	0	1
+883	the appeal procedure is the only thing i can possibly think of	the appeal procedure is the only thing i could think of	y	y	1	1
+884	the appeal procedure is the only thing i can possibly think of	the only thing i can think of is an appeal procedure	y	y	1	1
+885	the appeal procedure is the only thing i could think of	the only thing i can think of is an appeal procedure	n	y	0	1
+886	at that stage of life you only have so much money left	you only have a limited amount of money left	n	n	1	0
+887	at that stage of life you only have so much money left	you only have so much money left at that point in your life	y	y	1	1
+888	you only have a limited amount of money left	you only have so much money left at that point in your life	n	n	1	0
+889	they decided not to worry about being identified	they decided that they were not worried about being identified	y	y	1	1
+890	they decided they completely unworried about being identified or anything	they decided not to worry about being identified	y	y	1	1
+891	they decided they completely unworried about being identified or anything	they decided that they were not worried about being identified	y	y	1	1
+892	they have made a substantial amount of money from it	they have made money from it	n	n	1	0
+893	they have made a substantial amount of money from it	they made a lot of money from it	y	y	1	1
+894	they have made money from it	they made a lot of money from it	n	n	1	0
+895	they give more information than opinions	they seem to give more facts than opinions	y	n	0	1
+896	they seem to give more of just the facts than opinions	they give more information than opinions	y	n	0	1
+897	they seem to give more of just the facts than opinions	they seem to give more facts than opinions	y	n	0	1
+898	they way behind schedule on that particular part of it	that part of it is behind schedule	y	n	0	1
+899	that part of it is behind schedule	they were way behind schedule on that part	y	n	0	1
+900	they way behind schedule on that particular part of it	they were way behind schedule on that part	n	n	1	0
