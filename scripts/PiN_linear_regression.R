@@ -6,16 +6,11 @@ library(moments)
 
 set.seed(42) 
 
-# setwd('/path/to/the/directory')
-# PiN_both_data <- read.csv("PiN_both.tsv", sep = "\t")
-# PiN_either_data <- read.csv("PiN_either.tsv", sep = "\t")
-# PiN_all_data <- read.csv("PiN.tsv", sep = "\t")
+setwd('/path/to/the/directory')
+PiN_both_data <- read.csv("PiN_both.tsv", sep = "\t")
+PiN_either_data <- read.csv("PiN_either.tsv", sep = "\t")
+PiN_all_data <- read.csv("PiN.tsv", sep = "\t")
 
-setwd('C:/Users/AChingacham/Downloads/Files_reference/Chapter_5_SUL_paraphrases/June_8_2022')
-#setwd("/projects/SFB_A4/exp_data/SUL/sent-comp_prediction_model/PiN_ranking_models/all_results/")
-PiN_both_data <- read.csv("results_100_AND/PiN_both.tsv", sep = "\t")
-PiN_either_data <- read.csv("results_100_OR/PiN_either.tsv", sep = "\t")
-PiN_all_data <- read.csv("results_100/PiN.tsv", sep = "\t")
 glimpse(PiN_both_data)
 
 # Step 1: Data explorations
