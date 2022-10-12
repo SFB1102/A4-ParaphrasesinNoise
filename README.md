@@ -10,8 +10,12 @@ This is a subset of PiN dataset with 332 paraphrase pairs which were identified 
 This is a subset of PiN dataset with 596 paraphrase pairs which were identified as 'exact paraphrases' by either of the 2 annotators.
 
 ## Audio stimuli:
+PiN_audio_stimuli.zip folder consists of all 900 utterances synthesized using Google API.
 
-Access to our audio stimuli will be shared on request. You can send us your interest through email.
+
+## Linear Regression Models:
+To model the intelligibility-gain among paraphrases using lingustic and acoustic features, refer to scripts folder.
+We have also included our model estimations for all noise conditions in scripts/PiN_linear_regression.R file.
 
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
