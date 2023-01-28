@@ -22,8 +22,8 @@ Please use the following citation to refer to this work/dataset:
 
 
 ```
-@inproceedings{chingacham21_interspeech,
-  author={Anupama Chingacham and Vera Demberg and Dietrich Klakow},
+@inproceedings{chingacham22_slt,
+  author={Anupama Chingacham, Vera Demberg, Dietrich Klakow},
   title={{A Data-driven Investigation of Noise-adaptive Utterance Generation with Linguistic Modification}},
   year=2023,
   booktitle={Proc. IEEE Spoken Language Technology Workshop (SLT 2022) },
