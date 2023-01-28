@@ -18,6 +18,21 @@ To model the intelligibility-gain among paraphrases using lingustic and acoustic
 We have also included our model estimations for all noise conditions in scripts/PiN_linear_regression.R file.
 
 
+Please use the following citation to refer to this work/dataset:
+
+
+```
+@inproceedings{chingacham21_interspeech,
+  author={Anupama Chingacham and Vera Demberg and Dietrich Klakow},
+  title={{Exploring the Potential of Lexical Paraphrases for Mitigating Noise-Induced Comprehension Errors}},
+  year=2021,
+  booktitle={Proc. Interspeech 2021},
+  pages={1713--1717},
+  doi={10.21437/Interspeech.2021-306}
+}
+```
+
+
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
 This work is licensed under a
