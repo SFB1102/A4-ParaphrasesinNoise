@@ -26,7 +26,8 @@ Please use the following citation to refer to this work/dataset:
   author={Anupama Chingacham and Vera Demberg and Dietrich Klakow},
   title={{A Data-driven Investigation of Noise-adaptive Utterance Generation with Linguistic Modification}},
   year=2023,
-  booktitle={Proc. IEEE Spoken Language Technology Workshop (SLT 2022) }
+  booktitle={Proc. IEEE Spoken Language Technology Workshop (SLT 2022) },
+  url={https://arxiv.org/abs/2210.10252}
 }
 ```
 
