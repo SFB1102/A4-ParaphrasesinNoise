@@ -24,11 +24,9 @@ Please use the following citation to refer to this work/dataset:
 ```
 @inproceedings{chingacham21_interspeech,
   author={Anupama Chingacham and Vera Demberg and Dietrich Klakow},
-  title={{Exploring the Potential of Lexical Paraphrases for Mitigating Noise-Induced Comprehension Errors}},
-  year=2021,
-  booktitle={Proc. Interspeech 2021},
-  pages={1713--1717},
-  doi={10.21437/Interspeech.2021-306}
+  title={{A Data-driven Investigation of Noise-adaptive Utterance Generation with Linguistic Modification}},
+  year=2023,
+  booktitle={Proc. IEEE Spoken Language Technology Workshop (SLT 2022) }
 }
 ```
 
