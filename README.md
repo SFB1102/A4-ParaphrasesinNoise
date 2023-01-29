@@ -17,6 +17,7 @@ PiN_audio_stimuli.zip folder consists of all 900 utterances synthesized using Go
 To model the intelligibility-gain among paraphrases using lingustic and acoustic features, refer to scripts folder.
 We have also included our model estimations for all noise conditions in scripts/PiN_linear_regression.R file.
 
+For more details of this work, please refer to our IEEE publication A Data-Driven Investigation of Noise-Adaptive Utterance Generation with Linguistic Modification (https://ieeexplore.ieee.org/document/10022437)
 
 Please use the following citation to refer to this work/dataset:
 
